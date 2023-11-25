@@ -1,0 +1,18 @@
+
+
+-cree les different type de reflexes pupillaire
+    -myosis
+        myosis unilaterale areactive
+        myosis bilaterale areactive
+    -mydrias
+        mydirase uni-areactive
+        mydriase bi-areactive
+    -intermediraire
+        reactive
+        areactive
+-faire tester le logiciel par personne competente
+
+code valider ? oui
+cree les simulations en hasard des reflexes (petit jeu)
+trouver comment envoyer le terminal arduino au code
+interpreter les infos du terminal dans le code
